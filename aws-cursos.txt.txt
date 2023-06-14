@@ -1,0 +1,32 @@
+UDEMY
+
+--
+IMGLES
+
+- [NEW] Ultimate AWS Certified Cloud Practitioner - 2023
+  15 horas
+  Requisitos:   
+    - No AWS experience
+    - No IT prerequisites
+
+- Ultimate AWS Certified Solutions Architect Associate SAA-C03
+  27 horas
+  Requisitos:  
+    - IT basics
+    - No AWS experience
+    - Windows / Linux / Mac OS X Machine
+
+--
+ESPAÑOL
+
+- [Español] Curso Completo de AWS Certified Cloud Practitioner
+  20 horas
+  Requisitos:   
+    - No AWS experience
+    - No IT prerequisites
+
+- [Español] AWS Certified Solutions Architect Associate - 2023
+  34 horas
+  Requisitos:   
+    - IT basics
+    - No AWS experience
