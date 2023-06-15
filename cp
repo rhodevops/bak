@@ -19,3 +19,5 @@
  Associate route table
  Verifying route table creation
  Associate S3 endpoint with private subnet route tables: vpce-xxxxxid  
+ 
+ A default VPC enables you to launch Amazon EC2 resources without having to create and configure your own VPC and subnets. We'll create a default VPC with a default subnet in each Availability Zone, an internet gateway, and a route table with a route to the internet gateway.
